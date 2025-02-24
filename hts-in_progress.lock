@@ -1,0 +1,7 @@
+Mirror in progress since Thu, 20 Feb 2025 11:30:00 .. please wait!
+winhttrack https://themes-park.net/product/html/reeni/index-white.html -O "/home/mongo/websites/mancity" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=2153737
+UID=1000
+GID=1000
+START=1740040200
